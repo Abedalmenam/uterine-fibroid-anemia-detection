@@ -1,4 +1,7 @@
-![Demo](loos.jpg)
+![uterine-fibroid-anemia-detection
+](loos.jpg)
+
+
 
 
 # uterine-fibroid-anemia-detection
